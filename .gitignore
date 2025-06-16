@@ -1,0 +1,16 @@
+# IDE files
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Log files
+*.log
+
+# Local configuration
+application.properties 
+
+# Operating System files
+.DS_Store
+Thumbs.db
